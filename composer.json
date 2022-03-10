@@ -1,6 +1,6 @@
 {
-  "name": "transbank/webpay-magento2-rest",
-  "description": "Plugin oficial de Magento 2 para Webpay REST",
+  "name": "rocketad/webpay-magento2-rest",
+  "description": "modificación Plugin oficial de Magento 2 para Webpay REST",
   "require": {
     "ext-json": "*",
     "transbank/transbank-sdk": "~2.0",
