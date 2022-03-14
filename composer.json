@@ -1,5 +1,5 @@
 {
-  "name": "rocketad/webpay-magento2-rest",
+  "name": "rocket-ad/webpay-magento2-rest-pending",
   "description": "modificación Plugin oficial de Magento 2 para Webpay REST",
   "require": {
     "ext-json": "*",
