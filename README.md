@@ -1,4 +1,4 @@
-[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/pparga/transbank-plugin-magento2-webpay-rest)](https://github.com/pparga/transbank-plugin-magento2-webpay-rest/releases/tag/1.1.6)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/pparga/transbank-plugin-magento2-webpay-rest)](https://github.com/pparga/transbank-plugin-magento2-webpay-rest/releases/tag/1.1.8)
 [![GitHub](https://img.shields.io/github/license/transbankdevelopers/transbank-plugin-magento2-webpay-rest)](LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/transbankdevelopers/transbank-plugin-magento2-webpay-rest)](https://github.com/TransbankDevelopers/transbank-plugin-magento2-webpay-rest/graphs/contributors)
 [![Build Status](https://api.travis-ci.com/TransbankDevelopers/transbank-plugin-magento2-webpay-rest.svg?branch=master)](https://app.travis-ci.com/github/TransbankDevelopers/transbank-plugin-magento2-webpay-rest)
